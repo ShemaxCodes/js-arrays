@@ -12,3 +12,5 @@ const years = new Array(1991, 1988, 2008, 2020);
 console.log(years);
 
 console.log(friends[0]); // Grabs the name Michael
+
+console.log(friends.length); // Returns the exact amount of elements in the array
