@@ -14,3 +14,6 @@ console.log(years);
 console.log(friends[0]); // Grabs the name Michael
 
 console.log(friends.length); // Returns the exact amount of elements in the array
+
+console.log(friends[friends.length - 1]); //will return the actual element "Peter"
+//in the friends array, return this element 
